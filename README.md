@@ -2,6 +2,7 @@
 one off steps:
 
 1. install python
+
 	a. https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe
 	
 	b. untick install for all users, then you'll be able to install without admin right
