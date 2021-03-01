@@ -7,6 +7,9 @@ one off steps:
 	
 	b. untick install for all users, then you'll be able to install without admin right
 	
+	c. tick add python to path
+	
+	
 2. once installed, shift + right click to open windows powershell or any cmd window and run the below two commands:
 
 	a. pip install xlsxwriter
